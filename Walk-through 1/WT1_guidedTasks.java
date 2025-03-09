@@ -5,13 +5,13 @@ public class WT1_guidedTasks {
     
     public static void main(String[] args) {
         // guided task #1
-        String myName = "Remy Dianne Ventuta";
+        String myName = "Remy Dianne Ventura";
         System.out.println("GUIDED TASK #1 \nWelcome, " + myName + "!");
         
         // guided task #2
-        int length = 10;
-        int width = 5;
-        int area = length * width;
+        double length = 10.33;
+        double width = 5.7;
+        double area = length * width;
         System.out.println("\nGUIDED TASK #2 \nLength of the rectangle: " + length + "\nWidth of the rectangle: " + width + "\nArea of the rectangle: " + area);
         
         // guided task #3
