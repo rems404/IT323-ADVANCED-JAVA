@@ -18,7 +18,7 @@ public class WT1_selfPractice {
         LocalDateTime today = LocalDateTime.now();
         DateTimeFormatter formatDate = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
         String formattedDate = today.format(formatDate);
-            System.out.println("\nSELF PRACTICE #2 \nDate and time: " + formattedDate);
+        System.out.println("\nSELF PRACTICE #2 \nDate and time: " + formattedDate);
     }
     
 }
